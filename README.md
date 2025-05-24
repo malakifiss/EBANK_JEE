@@ -1,5 +1,4 @@
 <h1>le back</h1>
-<img src="pics/e.png">
 <img src="pics/ebank6.png">
 <img src="pics/ebank7.png">
 <img src="pics/ebank8.png">
